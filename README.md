@@ -1,6 +1,6 @@
 dynamic full functional Calculator
 The Simple Calculator is a React component that provides a basic arithmetic calculator functionality within your larger React application.
-<img src="https://github.com/Asdesac/react-scientific-calculator/blob/main/path/to/your-image.jpg" width="250" height="150" alt="Alt Text">
+<img src="https://github.com/Asdesac/react-scientific-calculator/commit/d139de90cbc96bd410e34dded2a25c031ccecec0.jpg" width="250" height="150" alt="Alt Text">
 
 Features
 Perform addition, subtraction, multiplication, and division operations
