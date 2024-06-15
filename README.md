@@ -38,6 +38,9 @@ Operation Buttons
 -: Performs subtraction of input2 from input1
 *: Performs multiplication of input1 and input2
 /: Performs division of input1 by input2
+
+and degree,log ,and all the athersfull function pf the scientific calculator
+
 The result of the calculation is displayed below the input fields and operation buttons.
 
 Contributing
